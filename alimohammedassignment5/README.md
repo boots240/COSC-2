@@ -1,0 +1,1 @@
+This project uses of classes, constructors, methods, and randomization to create a simple coin-tossing game. Each round involves tossing a coin with a random denomination and accumulating the score based on the number of times it lands on heads. The total score for each round is then printed.
