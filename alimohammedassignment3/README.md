@@ -1,0 +1,1 @@
+This program allows users to input details about their pets and retrieving that information for display. It demonstrates the use of classes, methods, user input handling, and object instantiation in Java.
