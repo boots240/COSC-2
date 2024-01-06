@@ -1,0 +1,1 @@
+This Java program consists of a hierarchy of pet classes. It helps demonstrate how you can organize and represent different types of pets with shared and unique characteristics using programming concepts like abstraction, encapsulation, inheritance, and polymorphism.
